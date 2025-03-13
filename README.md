@@ -1,5 +1,6 @@
 <h1 align="center">Hey there, I'm Adam!👋</h1>
-<p align="left">I am currently a 2nd year Software Engineering student.</p>
+<p align="center">I am currently a 2nd year Software Engineering student.</p>
+
 ---
 
 ### 💻 About Me
