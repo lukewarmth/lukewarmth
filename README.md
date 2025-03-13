@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Adam!👋</h1>
-<p align="center">I am currently a 2nd year Software Engineering student.</p>
+<p align="center">I am currently a 2nd year Computer Science student.</p>
 
 ---
 
