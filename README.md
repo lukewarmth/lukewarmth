@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Adam!👋</h1>
 <p align="center">I am currently a 2nd year Computer Science student.</p>
 
-![code gif]([https://i.pinimg.com/originals/e2/8d/61/e28d61b0ce1b686bbd9c19b98912101f.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQ5MXJrYng5MjNrbzFqdzNqdXZrbndienR5MTFmamc1eDdmN2I3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif))
+![code gif](https://i.giphy.com/QpVUMRUJGokfqXyfa1.webp)
 
 ---
 
