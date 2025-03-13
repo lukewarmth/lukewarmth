@@ -1,7 +1,11 @@
 <h1 align="center">Hey there, I'm Adam!👋</h1>
+
+<p align="center">
+  <img src="https://i.giphy.com/QpVUMRUJGokfqXyfa1.webp" alt="GIF" width="1000" height="200">
+</p>
+
 <p align="center">I am currently a 2nd year Computer Science student.</p>
 
-![code gif](https://i.giphy.com/QpVUMRUJGokfqXyfa1.webp)
 
 ---
 
