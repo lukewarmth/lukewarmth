@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Adam! I am currently a 2nd year Software Engineering student.👋</h1>
-
+<h1 align="center">Hey there, I'm Adam!👋</h1>
+<p align="left">I am currently a 2nd year Software Engineering student.</p>
 ---
 
 ### 💻 About Me
@@ -24,14 +24,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamCsonka&show_icons=true&theme=tokyonight">
 </p>
 
 ---
