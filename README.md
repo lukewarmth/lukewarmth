@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/QpVUMRUJGokfqXyfa1.webp" alt="GIF" width="1000" height="200">
 </p>
 
-<p align="center">I am currently a 2nd year Computer Science student.</p>
+<p align="center">I am currently a 3rd year Computer Science student.</p>
 
 
 ---
@@ -12,9 +12,8 @@
 ### 💻 About Me
 
 - 🎨 I am most comfortable with **HTML, CSS, and PHP**, specializing in **web design, frontend and visual design**
-- 📚 Currently learning **Laravel and React**
-- 🖥️ Also enjoying writing projects in **Java, C#, C++ and Python**
-- 🎮 **Game development, particularly textures, shaders and UI/UX design** are a future prospect for me that I would love to look into
+- 📚 Currently learning **Laravel, React, Python**
+- 🖥️ Also enjoying writing projects in **Java, C#, C++**
 
 ---
 
