@@ -44,8 +44,7 @@
 
 ### 🎯 Current Goals
 
-- 🎮 Develop **Safari Tycoon** game for a group project for school (which is sadly private...)
-- 🖥️ Code **introductory showcase projects** to showcase my skills on here
+- 🖥️ Code **introductory showcase projects** to showcase my skills
 
 ---
 
